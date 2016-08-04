@@ -1,6 +1,6 @@
 {
   "name": "Weibozan",
   "tagline": "新浪微博自动点赞Chrome插件",
-  "body": "#微博自动点赞插件\r\n在微博页面，点击一下插件图标，就会自动点赞了，每5秒点赞一次。\r\n如果提示操作频繁，关掉页面过一会再尝试。\r\n\r\n",
+  "body": "#微博自动点赞插件\r\n在微博页面，点击一下插件图标，就会自动点赞了，每5秒点赞一次。\r\n\r\n如果提示操作频繁，关掉页面过一会再尝试。\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
