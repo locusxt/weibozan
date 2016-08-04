@@ -1,0 +1,18 @@
+{
+	  "name": "Weibo Zan!",
+	  "description": "Zan Zan Zan! by Locusxt",
+	  "version": "0.0.1",
+	  "permissions": [
+	    // "activeTab"
+	    "http://weibo.com/*"
+	  ],
+	  "background": {
+	    "scripts": ["bg.js"],
+	    "persistent": false
+	  },
+	  "browser_action": {
+	  	"default_icon":"like.png",
+	    "default_title": "Start ❤️Like"
+	  },
+	  "manifest_version": 2
+}
